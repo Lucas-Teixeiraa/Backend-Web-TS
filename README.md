@@ -78,20 +78,3 @@ O esquema do banco de dados é definido no arquivo `prisma/schema.prisma` e cons
     ```bash
     npx prisma generate
     ```
-
-## Como Executar o Projeto
-
-Para iniciar o servidor de desenvolvimento (este comando pode variar dependendo de como seu `package.json` está configurado):
-```bash
-npm start
-# ou, se você tiver um script 'dev'
-# npm run dev
-```
-
-## Contribuindo
-
-Por favor, leia as diretrizes de contribuição (se houver) antes de enviar pull requests.
-
-## Licença
-
-Este projeto é licenciado sob a Licença XYZ (ou especifique sua licença).
